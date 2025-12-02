@@ -1,19 +1,38 @@
-<!--
-If this is a bug report please fill out the template below.
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
-If this is a feature request please describe the behavior that you'd like to see.
--->
+---
 
-**Environment**:
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-- CTFd Version/Commit:
-- Operating System:
-- Web Browser and Version:
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-**What happened?**
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-**What did you expect to happen?**
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-**How to reproduce your issue**
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-**Any associated stack traces or error logs**
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
